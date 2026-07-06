@@ -26,7 +26,3 @@
 ## Certificate
 
 - 정보처리기사
-
-## GitHub Stats
-
-![DongJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongJun-Choi&show_icons=true&theme=github_dark)
